@@ -16,8 +16,8 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Balajiscientist/expense_management_system_for_students.git
-   cd expense_management_system_for_students
+   git clone https://github.com/Balajiscientist/expense_management_system_for_hostel_students.git
+   cd expense_management_system_for_hostel_students
 
    ```
 1. **Install dependencies:**:   
@@ -26,9 +26,9 @@ This project is an expense management system that consists of a Streamlit fronte
    ```
 1. **Run the FastAPI server:**:   
    ```commandline
-    uvicorn server.server:app --reload
+    uvicorn server:app --reload
    ```
 1. **Run the Streamlit app:**:   
    ```commandline
-    streamlit run frontend/app.py
+    streamlit run app.py
    ```
