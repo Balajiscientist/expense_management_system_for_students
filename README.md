@@ -5,9 +5,9 @@ This project is an expense management system that consists of a Streamlit fronte
 
 ## Project Structure
 
-- **frontend/**: Contains the Streamlit application code.
-- **backend/**: Contains the FastAPI backend server code.
-- **tests/**: Contains the test cases for both frontend and backend.
+- **frontend**: Contains the Streamlit application code.
+- **backend**: Contains the FastAPI backend server code.
+- **tests**: Contains the test cases for both frontend and backend.
 - **requirements.txt**: Lists the required Python packages.
 - **README.md**: Provides an overview and instructions for the project.
 
@@ -16,8 +16,9 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/Balajiscientist/expense_management_system_for_students.git
+   cd expense_management_system_for_students
+
    ```
 1. **Install dependencies:**:   
    ```commandline
